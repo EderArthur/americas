@@ -142,10 +142,32 @@ footer > p > a:hover {
     
 
 }
-img{
+.md{
+    width: 55%;
+    display: block;
+    margin: auto;
+    padding: 20px; 
+    border-radius: 30px;
+}
+.md1{
+    width: 55%;
+    padding: 20px; 
+    border-radius: 30px;
+}
+.pq{
+    width: 25%;
+    display: block;
+    margin: auto;
+    padding: 20px; 
+    border-radius: 30px;
+}
+.gd{
     width: 75%;
     display: block;
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
+}
+.duas{
+    padding: 20px;
 }
