@@ -143,34 +143,34 @@ footer > p > a:hover {
 
 }
 .md{
-    width: 40vh;
+    width: 310px;
     display: block;
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
 }
 .md1{
-    width: 40vh;
+    width: 310px;
     padding: 20px; 
     border-radius: 30px;
     margin: auto;
     margin: 0px 0px 0px 10vw;
 }
 .pq{
-    width: 25vh;
+    width: 180px;
     display: block;
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
 }
 .pq1{
-    width: 25vh;
+    width: 180px;
     padding: 20px; 
     border-radius: 30px;
     margin: auto;
 }
 .gd{
-    width: 60vh;
+    width: 400px;
     display: block;
     margin: auto;
     padding: 20px; 
