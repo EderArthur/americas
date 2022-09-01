@@ -116,10 +116,10 @@ main > p {
 
 article{
     
-    ackground-color: rgb(207, 207, 207);
+    background-color: rgb(207, 207, 207);
     padding: 10px;
-    order-radius: 10px;
-    ox-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 }
 article > p {
     text-indent: 30px;
@@ -143,7 +143,7 @@ footer > p > a:hover {
 
 }
 .md{
-    width: 40%;
+    width: 40vh;
     display: block;
     margin: auto;
     padding: 20px; 
@@ -153,18 +153,21 @@ footer > p > a:hover {
     width: 40vh;
     padding: 20px; 
     border-radius: 30px;
+    margin: auto;
+    margin: 0px 0px 0px 10vw;
 }
 .pq{
-    width: 25%;
+    width: 25vh;
     display: block;
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
 }
 .pq1{
-    width: 25%;
+    width: 25vh;
     padding: 20px; 
     border-radius: 30px;
+    margin: auto;
 }
 .gd{
     width: 60vh;
@@ -172,7 +175,4 @@ footer > p > a:hover {
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
-}
-.duas{
-    padding: 20px;
 }
