@@ -143,14 +143,14 @@ footer > p > a:hover {
 
 }
 .md{
-    width: 55%;
+    width: 40%;
     display: block;
     margin: auto;
     padding: 20px; 
     border-radius: 30px;
 }
 .md1{
-    width: 55%;
+    width: 40%;
     padding: 20px; 
     border-radius: 30px;
 }
@@ -167,7 +167,7 @@ footer > p > a:hover {
     border-radius: 30px;
 }
 .gd{
-    width: 75%;
+    width: 60%;
     display: block;
     margin: auto;
     padding: 20px; 
