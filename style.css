@@ -154,7 +154,7 @@ footer > p > a:hover {
     padding: 20px; 
     border-radius: 30px;
     margin: auto;
-    margin: 0px 0px 0px 10vw;
+    margin: 0px 0px 0px 25%;
 }
 .pq{
     width: 45%;
@@ -189,4 +189,8 @@ padding: 20px;
 border-radius: 30px;
 margin: auto;
 margin: 0px 0px 0px 14%;
+}
+
+div{
+    margin: 0px 0px 0px 25%;
 }
